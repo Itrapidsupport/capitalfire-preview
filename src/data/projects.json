@@ -1,0 +1,499 @@
+[
+ {
+  "name": "383 Sorauren",
+  "dev": "Gairloch",
+  "img": "383-sorauren.webp",
+  "w": 644,
+  "h": 608
+ },
+ {
+  "name": "King East Lofts",
+  "dev": "Lamb Development",
+  "img": "king-east-lofts.webp",
+  "w": 615,
+  "h": 445
+ },
+ {
+  "name": "The Harlowe Condo",
+  "dev": "Lamb Development",
+  "img": "the-harlowe-condo.webp",
+  "w": 286,
+  "h": 324
+ },
+ {
+  "name": "75 The Esplanade",
+  "dev": "Harhay Developments",
+  "img": "75-the-esplanade.webp",
+  "w": 330,
+  "h": 759
+ },
+ {
+  "name": "Origami Lofts",
+  "dev": "Symmetry Developments",
+  "img": "origami-lofts.webp",
+  "w": 710,
+  "h": 527
+ },
+ {
+  "name": "West 22",
+  "dev": "Rockport Group",
+  "img": "west-22.webp",
+  "w": 406,
+  "h": 793
+ },
+ {
+  "name": "65 Bayly St., Ajax",
+  "dev": "Medallion Corporation",
+  "img": "65-bayly-st-ajax.webp",
+  "w": 720,
+  "h": 459
+ },
+ {
+  "name": "Brant Park",
+  "dev": "Lamb Development",
+  "img": "brant-park.webp",
+  "w": 228,
+  "h": 245
+ },
+ {
+  "name": "Merge Condos",
+  "dev": "Lormel Homes",
+  "img": "merge-condos.webp",
+  "w": 441,
+  "h": 219
+ },
+ {
+  "name": "The Park Place Condos",
+  "dev": "Inzola Construction",
+  "img": "the-park-place-condos.webp",
+  "w": 348,
+  "h": 535
+ },
+ {
+  "name": "Jade Waterfront Condos",
+  "dev": "Phantom Developments",
+  "img": "jade-waterfront-condos.webp",
+  "w": 318,
+  "h": 570
+ },
+ {
+  "name": "4 The Kingsway",
+  "dev": "North Drive Developments",
+  "img": "4-the-kingsway.webp",
+  "w": 682,
+  "h": 675
+ },
+ {
+  "name": "620 Martin Grove",
+  "dev": "Minto Group",
+  "img": "620-martin-grove.webp",
+  "w": 352,
+  "h": 630
+ },
+ {
+  "name": "Totem Condominiums",
+  "dev": "Worsley Urban Partners",
+  "img": "totem-condominiums.webp",
+  "w": 720,
+  "h": 727
+ },
+ {
+  "name": "Yorkville Park",
+  "dev": "Minto Group",
+  "img": "yorkville-park.webp",
+  "w": 329,
+  "h": 791
+ },
+ {
+  "name": "YongeParc Condos",
+  "dev": "Pemberton Group",
+  "img": "yongeparc-condos.webp",
+  "w": 720,
+  "h": 849
+ },
+ {
+  "name": "The High Park",
+  "dev": "North Drive Developments",
+  "img": "the-high-park.webp",
+  "w": 556,
+  "h": 743
+ },
+ {
+  "name": "Georgetown Terraces",
+  "dev": "Inzola Construction",
+  "img": "georgetown-terraces.webp",
+  "w": 301,
+  "h": 328
+ },
+ {
+  "name": "1215 Bayly St., Ajax",
+  "dev": "Mondconsult Limited",
+  "img": "1215-bayly-st-ajax.webp",
+  "w": 399,
+  "h": 565
+ },
+ {
+  "name": "Friday Harbour",
+  "dev": "Pemberton Group",
+  "img": "friday-harbour.webp",
+  "w": 690,
+  "h": 332
+ },
+ {
+  "name": "San Francesco 3",
+  "dev": "Chestnut Hill Developments",
+  "img": "san-francesco-3.webp",
+  "w": 494,
+  "h": 985
+ },
+ {
+  "name": "Soul Condos",
+  "dev": "Fram Building Group",
+  "img": "soul-condos.webp",
+  "w": 481,
+  "h": 575
+ },
+ {
+  "name": "875 Queen East",
+  "dev": "Harhay Developments",
+  "img": "875-queen-east.webp",
+  "w": 720,
+  "h": 507
+ },
+ {
+  "name": "Backyard Neighbourhood Condos",
+  "dev": "Vandyk Group",
+  "img": "backyard-neighbourhood-condos.webp",
+  "w": 720,
+  "h": 516
+ },
+ {
+  "name": "One11 Condos",
+  "dev": "Harhay Developments",
+  "img": "one11-condos.webp",
+  "w": 500,
+  "h": 538
+ },
+ {
+  "name": "Pearl 2",
+  "dev": "The Conservatory Group",
+  "img": "pearl-2.webp",
+  "w": 210,
+  "h": 298
+ },
+ {
+  "name": "Windows on the Green",
+  "dev": "Vandyk Group",
+  "img": "windows-on-the-green.webp",
+  "w": 720,
+  "h": 372
+ },
+ {
+  "name": "Terrasse at the Hunt Club",
+  "dev": "Sunrise Gate Homes",
+  "img": "terrasse-at-the-hunt-club.webp",
+  "w": 283,
+  "h": 217
+ },
+ {
+  "name": "Bristol Condos",
+  "dev": "New Era Developments & YYZed Project",
+  "img": "bristol-condos.webp",
+  "w": 720,
+  "h": 488
+ },
+ {
+  "name": "The Waters Edge",
+  "dev": "The Conservatory Group",
+  "img": "the-waters-edge.webp",
+  "w": 403,
+  "h": 1135
+ },
+ {
+  "name": "36 Birch Residences",
+  "dev": "North Drive Developments",
+  "img": "36-birch-residences.webp",
+  "w": 720,
+  "h": 401
+ },
+ {
+  "name": "Scala",
+  "dev": "Tridel",
+  "img": "scala.webp",
+  "w": 511,
+  "h": 339
+ },
+ {
+  "name": "900 St. Clair West",
+  "dev": "Candreal",
+  "img": "900-st-clair-west.webp",
+  "w": 720,
+  "h": 672
+ },
+ {
+  "name": "Go-2 & Go-3 Condos",
+  "dev": "Pemberton Group",
+  "img": "go-2-go-3-condos.webp",
+  "w": 342,
+  "h": 248
+ },
+ {
+  "name": "Kingsway by the River",
+  "dev": "Urban Capital",
+  "img": "kingsway-by-the-river.webp",
+  "w": 426,
+  "h": 459
+ },
+ {
+  "name": "Perspective Condos",
+  "dev": "Pianosi Developments",
+  "img": "perspective-condos.webp",
+  "w": 600,
+  "h": 768
+ },
+ {
+  "name": "M Condos",
+  "dev": "Primont Homes",
+  "img": "m-condos.webp",
+  "w": 684,
+  "h": 372
+ },
+ {
+  "name": "Symphony Condominiums",
+  "dev": "Inzola Construction",
+  "img": "symphony-condominiums.webp",
+  "w": 386,
+  "h": 783
+ },
+ {
+  "name": "One Wellington",
+  "dev": "Angil Developments",
+  "img": "one-wellington.webp",
+  "w": 470,
+  "h": 307
+ },
+ {
+  "name": "George Condos",
+  "dev": "Rockport Group",
+  "img": "george-condos.webp",
+  "w": 720,
+  "h": 484
+ },
+ {
+  "name": "Regent Park Block 22 & 24",
+  "dev": "The Daniels Corporation",
+  "img": "regent-park-block-22-24.webp",
+  "w": 475,
+  "h": 889
+ },
+ {
+  "name": "8888 Yonge",
+  "dev": "Metroview Developments",
+  "img": "8888-yonge.webp",
+  "w": 425,
+  "h": 285
+ },
+ {
+  "name": "561 Sherbourne",
+  "dev": "Medallion Corporation",
+  "img": "561-sherbourne.webp",
+  "w": 223,
+  "h": 874
+ },
+ {
+  "name": "81 Wellesley",
+  "dev": "Aragon Properties",
+  "img": "81-wellesley.webp",
+  "w": 362,
+  "h": 731
+ },
+ {
+  "name": "One Forest Hill",
+  "dev": "North Drive Developments",
+  "img": "one-forest-hill.webp",
+  "w": 351,
+  "h": 267
+ },
+ {
+  "name": "The Burke",
+  "dev": "Concert Properties",
+  "img": "the-burke.webp",
+  "w": 160,
+  "h": 441
+ },
+ {
+  "name": "Life Condos",
+  "dev": "Chestnut Hill Developments",
+  "img": "life-condos.webp",
+  "w": 360,
+  "h": 445
+ },
+ {
+  "name": "Indigo Condos",
+  "dev": "Pemberton Group",
+  "img": "indigo-condos.webp",
+  "w": 510,
+  "h": 499
+ },
+ {
+  "name": "Nordic Condos",
+  "dev": "Collecdev Developments",
+  "img": "nordic-condos.webp",
+  "w": 720,
+  "h": 412
+ },
+ {
+  "name": "IT Lofts",
+  "dev": "Worsley Urban Partners",
+  "img": "it-lofts.webp",
+  "w": 720,
+  "h": 409
+ },
+ {
+  "name": "Dragon Condos",
+  "dev": "Ideal Developments",
+  "img": "dragon-condos.webp",
+  "w": 460,
+  "h": 546
+ },
+ {
+  "name": "1284 Guelph Line",
+  "dev": "Lewis Group of Companies",
+  "img": "1284-guelph-line.webp",
+  "w": 497,
+  "h": 304
+ },
+ {
+  "name": "399 Spring Garden",
+  "dev": "Phantom Developments",
+  "img": "399-spring-garden.webp",
+  "w": 720,
+  "h": 405
+ },
+ {
+  "name": "Tea Garden Condos",
+  "dev": "Phantom Developments",
+  "img": "tea-garden-condos.webp",
+  "w": 489,
+  "h": 747
+ },
+ {
+  "name": "577 Sheppard Ave. East",
+  "dev": "Mondconsult Limited",
+  "img": "577-sheppard-ave-east.webp",
+  "w": 453,
+  "h": 417
+ },
+ {
+  "name": "Joy Condos",
+  "dev": "Gemterra Developments Corp.",
+  "img": "joy-condos.webp",
+  "w": 697,
+  "h": 888
+ },
+ {
+  "name": "Primo Condos",
+  "dev": "Medallion Corporation",
+  "img": "primo-condos.webp",
+  "w": 391,
+  "h": 1008
+ },
+ {
+  "name": "The Craftsman",
+  "dev": "Vandyk Group",
+  "img": "the-craftsman.webp",
+  "w": 720,
+  "h": 403
+ },
+ {
+  "name": "King Charlotte",
+  "dev": "Lamb Development",
+  "img": "king-charlotte.webp",
+  "w": 292,
+  "h": 869
+ },
+ {
+  "name": "The Beverly Hills Condos",
+  "dev": "Great Lands Corporation",
+  "img": "the-beverly-hills-condos.webp",
+  "w": 648,
+  "h": 667
+ },
+ {
+  "name": "Upper East Village",
+  "dev": "Camrost",
+  "img": "upper-east-village.webp",
+  "w": 720,
+  "h": 539
+ },
+ {
+  "name": "The Forest Hill",
+  "dev": "CentreCourt",
+  "img": "the-forest-hill.webp",
+  "w": 448,
+  "h": 543
+ },
+ {
+  "name": "Shoppes at Stonegate",
+  "dev": "Vandyk Group",
+  "img": "shoppes-at-stonegate.webp",
+  "w": 720,
+  "h": 393
+ },
+ {
+  "name": "Evermore at West Village",
+  "dev": "Tridel",
+  "img": "evermore-at-west-village.webp",
+  "w": 422,
+  "h": 831
+ },
+ {
+  "name": "The Lexington Condominium",
+  "dev": "Royal Grand Developments",
+  "img": "the-lexington-condominium.webp",
+  "w": 319,
+  "h": 558
+ },
+ {
+  "name": "Bluff Condos",
+  "dev": "Skale Developments",
+  "img": "bluff-condos.webp",
+  "w": 720,
+  "h": 405
+ },
+ {
+  "name": "Scoop Condos",
+  "dev": "Graywood Developments",
+  "img": "scoop-condos.webp",
+  "w": 720,
+  "h": 452
+ },
+ {
+  "name": "The Logan",
+  "dev": "The Daniels Corporation",
+  "img": "the-logan.webp",
+  "w": 396,
+  "h": 247
+ },
+ {
+  "name": "Picnic Condos",
+  "dev": "North Drive Developments",
+  "img": "picnic-condos.webp",
+  "w": 665,
+  "h": 594
+ },
+ {
+  "name": "Widdicombe Hill",
+  "dev": "Fernbrook Homes",
+  "img": "widdicombe-hill.webp",
+  "w": 720,
+  "h": 200
+ },
+ {
+  "name": "Imagine Condos",
+  "dev": "Insoho Developments",
+  "img": "imagine-condos.webp",
+  "w": 720,
+  "h": 315
+ }
+]
